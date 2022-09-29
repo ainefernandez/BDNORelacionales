@@ -129,5 +129,5 @@ db.restaurants.find({"name":/mon/},{"name":1,"borough":1,"address.coord":1,"cuis
 ```
 **31. Escribe una función find() para encontrar el nombre del restaurante, el distrito, la longitud y la latitud y la cocina de aquellos restaurantes que contienen ‘Mad’ como las primeras tres letras de su nombre.**
 ```
-db.restaurants.find({"name":/Mad/},{"name":1,"borough":1,"address.coord":1,"cuisine":1,"_id":0})
+db.restaurants.find({"name":/^Mad/},{"name":1,"borough":1,"address.coord":1,"cuisine":1,"_id":0})
 ```
