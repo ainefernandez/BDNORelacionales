@@ -89,11 +89,11 @@ db.restaurants.find({$or:[{"name":/^Wil/},{"cuisine": {$in: ["American ","Chines
 ```
 **21.Escribe una función find() para encontrar el ID del restaurante, el nombre y las calificaciones de los restaurantes que obtuvieron una calificación de “A” y obtuvieron una puntuación de 11 en un ISODate “2014-08-11T00: 00: 00Z” entre muchas de las fechas de la encuesta.**
 ```
-db.restaurants.find({"grades.date":"ISODate(“2014-08-11T00: 00: 00Z”)","grades.grade": "A", "grades.score": 11})
+db.restaurants.find({"grades.date":ISODate(“2014-08-11T00: 00: 00Z”),"grades.grade": "A", "grades.score": 11})
 ```
 **22. Escribe una función find() para encontrar el ID del restaurante, el nombre y las calificaciones de aquellos restaurantes donde el segundo elemento de la matriz de calificaciones contiene una calificación de “A” y una puntuación de 9 en un ISODate “2014-08-11T00: 00: 00Z”.**
 ```
-db.restaurants.find({"grades.date":"ISODate(“2014-08-11T00: 00: 00Z”)","grades.grade": "A", "grades.score": 9})
+db.restaurants.find({"grades.date":ISODate(“2014-08-11T00: 00: 00Z”),"grades.grade": "A", "grades.score": 9})
 ```
 **23.Escribe una función find() para encontrar el ID del restaurante, el nombre, la dirección y la ubicación geográfica para aquellos restaurantes donde el segundo elemento de la matriz de coordenadas contiene un valor que sea más de 42 y hasta 52.**
 ```
