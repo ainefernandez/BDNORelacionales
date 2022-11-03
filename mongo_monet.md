@@ -3,9 +3,9 @@
 
 ```
 #!/bin/bash
+cd documents/itam/7semestre/BASESNORELACIONALES
 docker stop mongo 
 docker rm mongo 
-cd documents/itam/7semestre/BASESNORELACIONALES
 export DATA_DIR=`pwd`/data
 echo $DATA_DIR
 export EX_DIR=`pwd`/mongodb-sample-dataset
@@ -30,6 +30,7 @@ cat safetycars.json| docker exec -i $DHC mongoimport --db=F1 --collection=safety
 
 ## MonetDB
 ```
+cd documents/itam/7semestre/BASESNORELACIONALES
 docker volume create monet-data
 docker stop monetdb
 docker rm monetdb
