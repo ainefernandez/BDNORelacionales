@@ -1,0 +1,89 @@
+Race,Lap,Incident,Excluded,Pole,Circuit ,Race_Laps,Red_flag_period,Laps_lost_SC
+1950 Indianapolis 500,138,Rain.,,1.07,Indianapolis Motor Speedway,138,Race halted ,Race halted 
+1971 Canadian Grand Prix,64,Mist.,,1.15,Mosport Park,64,Race halted ,Race halted 
+1973 British Grand Prix,2,"Crash involving Jody Scheckter, Jean-Pierre Beltoise, George Follmer, Mike Hailwood, Carlos Pace, Jochen Mass, Jackie Oliver, Roger Williamson and Andrea de Adamich.","Jody Scheckter, Jean-Pierre Beltoise, George Follmer, Mike Hailwood, Carlos Pace, Jochen Mass, Jackie Oliver, Roger Williamson and Andrea de Adamich (crash) Graham McRae (throttle) and David Purley (spun off).",2.33,Silverstone,67,90,39
+1974 Brazilian Grand Prix,32,Rain.,,1.23,Interlagos ,40,Race halted ,Race halted 
+1975 Spanish Grand Prix,29,Crash of Rolf Stommelen which killed five spectators. Half points were awarded.[b],,1.19,Montjuïc circuit,75,Race halted ,Race halted 
+1975 British Grand Prix,56,"Rain and crashes involving Wilson Fittipaldi, Jochen Mass, John Watson, Carlos Pace, Jody Scheckter, James Hunt and Mark Donohue.",,1.34,Silverstone,56,Race halted ,Race halted 
+1975 Austrian Grand Prix,29,Rain. Half points were awarded.[b],,1.19,Red Bull Ring ,54,Race halted ,Race halted 
+1976 British Grand Prix,1,"Crash at the start involving Clay Regazzoni, James Hunt, Jacques Laffite and Niki Lauda.","None, although Clay Regazzoni and Jacques Laffite illegally used their spare cars at the restart, and were subsequently disqualified.",1.19,Brands Hatch ,76,50,42
+1976 German Grand Prix,2,"Crash involving Niki Lauda, Brett Lunger and Harald Ertl.","Niki Lauda (crashed, injured), Brett Lunger and Harald Ertl (crashed), Chris Amon (withdrawn), Hans-Joachim Stuck (clutch) and Jacques Laffite (gearbox)",7.6,Nürburgring,14,65,9
+1978 Austrian Grand Prix,7,Rain. The race was decided by combining the time from the first 7 laps with the time from the restarted 47.,"Mario Andretti, Jody Scheckter, Nelson Piquet, H√©ctor Rebaque, Harald Ertl, Riccardo Patrese, Alan Jones and James Hunt.",1.37,Red Bull Ring ,54,60,44
+1978 Italian Grand Prix,1,"Crash involving Ronnie Peterson, Riccardo Patrese, James Hunt, Vittorio Brambilla, Hans-Joachim Stuck, Patrick Depailler, Didier Pironi, Derek Daly, Clay Regazzoni and Brett Lunger. The race was shortened to 40 laps from the scheduled 52 due to the concerns over darkness.","Ronnie Peterson (fatal crash), Vittorio Brambilla (injured), Hans-Joachim Stuck, Didier Pironi and Brett Lunger.",1.37,Monza,52,105,77
+1979 Argentine Grand Prix,1,"A huge crash involving Jody Scheckter, Arturo Merzario, Didier Pironi, Nelson Piquet, John Watson, Patrick Tambay and Mario Andretti.","Jody Scheckter, Arturo Merzario, Didier Pironi, Nelson Piquet and Patrick Tambay.",1.44,Autódromo Municipal de Buenos Aires,53,60,42
+1979 South African Grand Prix,2,Rain.,,1.11,Kyalami,78,30,27
+1980 Canadian Grand Prix,1,"Crash involving Jean-Pierre Jarier, Derek Daly, Emerson Fittipaldi, Keke Rosberg, Mario Andretti, Gilles Villeneuve and Jochen Mass.",Derek Daly (crashed) and Mike Thackwell (lending his car to Jean-Pierre Jarier after Jarier crashed his car before the restart).,1.27,Circuit Gilles Villeneuve ,70,35,28
+1981 Belgian Grand Prix,2,"Start crash that involved Riccardo Patrese and teammate Siegfried Stohr, injuring Patrese's mechanic.",Riccardo Patrese and Siegfried Stohr,1.22,Zolder,70,15,12
+1981 Belgian Grand Prix,54,Rain.,,1.22,Zolder,70,Race halted ,Race halted 
+1981 French Grand Prix,58,Rain. The race was decided by combining the time from the first 58 laps with the time from the restarted 22.,,1.06,Dijon-Prenois,80,35,75
+1982 Detroit Grand Prix,7,"Crash involving Elio de Angelis, Roberto Guerrero, and Riccardo Patrese. The race was decided by combining the time from the first 6 laps with the time from the restarted 64, shortened to 56 due to the two-hour time limit.",Riccardo Patrese and Roberto Guerrero,1.49,Detroit street circuit,62,60,40
+1982 Canadian Grand Prix,1,"Didier Pironi stalled his car at the start, causing Riccardo Paletti to crash fatally into the back of Pironi's car. Geoff Lees, Raul Boesel and Eliseo Salazar were also involved in separate crashes at the start.","Riccardo Paletti (fatal crash), Geoff Lees (crashed) and Jean-Pierre Jarier (withdrawn after teammate Paletti died).",1.28,Circuit Gilles Villeneuve,70,30,23
+1984 Monaco Grand Prix,31,Rain. Half points were awarded.[b],,1.23,Circuit de Monaco ,76,Race halted ,Race halted 
+1984 Detroit Grand Prix,1,"Crash at the start involving Nelson Piquet, Ayrton Senna, Michele Alboreto and Marc Surer",Marc Surer,1.41,Detroit street circuit,63,30,21
+1984 British Grand Prix,11,"Crash of Jonathan Palmer. The race was restarted for 60 laps, rather than the original 64.",,1.11,Brands Hatch ,71,20,18
+1984 Austrian Grand Prix,1,Improper start procedure.,,1.26,Red Bull Ring ,51,5,4
+1985 Austrian Grand Prix,1,"Crash at the start involving Teo Fabi, Elio de Angelis, Michele Alboreto and Gerhard Berger.",Piercarlo Ghinzani,1.26,Red Bull Ring ,52,35,28
+1986 British Grand Prix,1,"Nigel Mansell suffered a driveshaft failure at the start, resulting in a crash involving a number of cars which included Thierry Boutsen, Jacques Laffite, Christian Danner, Piercarlo Ghinzani, Allen Berg and Jonathan Palmer.","Jacques Laffite (crash, injured), Christian Danner, Piercarlo Ghinzani and Allen Berg.",1.07,Brands Hatch ,75,75,70
+1987 Belgian Grand Prix,2,Crash involving Jonathan Palmer and Philippe Streiff.,Jonathan Palmer,1.52,Spa-Francochamps,43,60,39
+1987 Austrian Grand Prix,1,"The first race start ended quickly after Martin Brundle crashed, then Jonathan Palmer, Philippe Streiff and Piercarlo Ghinzani collided.",,1.23,Red Bull Ring ,52,60,49
+1987 Austrian Grand Prix,1,"The second race start ended quickly after Nigel Mansell crawled away with clutch problems and then Eddie Cheever and Riccardo Patrese collided and half the grid, including Stefan Johansson, Alex Caffi, Ivan Capelli, Pascal Fabre, Philippe Alliot, Martin Brundle and Christian Danner were involved in the ensuing pile-up.",Philippe Streiff,1.23,Red Bull Ring ,52,60,49
+1987 Portuguese Grand Prix,2,"A multi-car collision on the opening lap. Nelson Piquet and Michele Alboreto collided at the start. Derek Warwick, Satoru Nakajima, Martin Brundle, Christian Danner, Philippe Alliot, Ren√© Arnoux and Adri√°n Campos were all involved in the ensuing crash.",Christian Danner,1.18,Autódromo do Estoril,70,45,38
+1987 Mexican Grand Prix,30,Crash of Derek Warwick. The race was decided by combining the time from the first 30 laps with the time from the restarted 33.,,1.18,Autódromo Hermanos Rodríguez,63,70,59
+1988 Portuguese Grand Prix,1,"After the first start was aborted, the second start was red-flagged after Derek Warwick stalled his car and was hit by Andrea de Cesaris, with Luis P√©rez-Sala and Satoru Nakajima also involved.",,1.17,Autódromo do Estoril,70,20,17
+1989 San Marino Grand Prix,4,"Crash of Gerhard Berger. The race was shortened from 61 to 58 laps, and was decided by combining the time from the first 3 laps with the time from the restarted 55.",Gerhard Berger (injured),1.26,Autodromo Enzo e Dino Ferrari,61,90,71
+1989 Mexican Grand Prix,2,Crash involving several cars.,,1.17,Autódromo Hermanos Rodríguez,69,60,51
+1989 French Grand Prix,1,"Crash involving Nigel Mansell, Maur√≠cio Gugelmin, Thierry Boutsen, Ren√© Arnoux and Jonathan Palmer",,1.07,Paul Ricard ,80,30,28
+1989 Australian Grand Prix,2,Crash involving JJ Lehto.,"Nicola Larini, Alain Prost (withdrew)",1.16,Adelaide Street Circuit,70,70,60
+1990 Monaco Grand Prix,1,Crash involving Gerhard Berger and Alain Prost.,,1.21,Circuit de Monaco ,78,30,25
+1990 Belgian Grand Prix,1,"Multiple crashes on the first lap, involving Martin Donnelly, Nigel Mansell, Aguri Suzuki and several others.",Aguri Suzuki,1.5,Spa-Francochamps,44,30,20
+1990 Belgian Grand Prix,1,"Crash involving Paolo Barilla, resulting in a damaged guardrail.",Paolo Barilla,1.5,Spa-Francochamps,44,45,30
+1990 Italian Grand Prix,2,Crash of Derek Warwick.,,1.23,Monza ,53,25,20
+1990 Portuguese Grand Prix,61,Crash involving Aguri Suzuki and Alex Caffi.,,1.13,Autódromo do Estoril,71,Race halted ,Race halted 
+1991 Australian Grand Prix,14,Rain. Half points were awarded.[b],,1.14,Adelaide Street Circuit,81,Race halted ,Race halted 
+1992 French Grand Prix,18,Rain. The race was decided by combining the time from the first 18 laps with the time from the restarted 51.,,1.14,Magny-Cours,72,65,57
+1994 San Marino Grand Prix,7,"Fatal crash of Ayrton Senna. The race was shortened from 61 to 58 laps, and was decided by combining the time from the first 5 laps with the time from the restarted 53.","Ayrton Senna (fatal crash), √ârik Comas (withdrew)",1.22,Autodromo Enzo e Dino Ferrari,61,37,30
+1994 Italian Grand Prix,1,Crash involving several cars.,,1.24,Monza ,53,40,32
+1994 Japanese Grand Prix,15,"Rain and a crash involving Martin Brundle, resulting in an injured marshal. The race was restarted with race leader Michael Schumacher behind the safety car and was decided by combining the time from the first 13 laps with the time of the restarted 37.",Martin Brundle,1.37,Zuzuka ,53,30,22
+1995 Argentine Grand Prix,1,"Several crashes involving Jean Alesi, Mika Salo, Luca Badoer, Olivier Panis, Pierluigi Martini, Johnny Herbert, Rubens Barrichello and Ukyo Katayama.",Luca Badoer,1.53,Autódromo Oscar Alfredo Gálvez,72,40,26
+1995 Monaco Grand Prix,1,"Crash involving Jean Alesi, Gerhard Berger and David Coulthard.","Domenico Schiattarella, Jos Verstappen",1.22,Circuit de Monaco ,78,60,49
+1995 Italian Grand Prix,1,"Crash involving Max Papis, Jean-Christophe Boullion, Andrea Montermini, Pedro Diniz and Roberto Moreno.",Andrea Montermini and Roberto Moreno.,1.25,Monza ,53,65,52
+1995 Portuguese Grand Prix,1,"Crash involving Ukyo Katayama, Luca Badoer, Pedro Diniz and Roberto Moreno.","Ukyo Katayama (crash, injured) and Max Papis (gearbox)",1.21,Autódromo do Estoril,71,30,25
+1996 Australian Grand Prix,1,"Crash involving Martin Brundle, David Coulthard and Johnny Herbert.",Johnny Herbert,1.32,Melbourne Grand Prix Circuit,58,45,34
+1997 Brazilian Grand Prix,1,"Rubens Barrichello stalled his car at the start, followed by several crashes involving Giancarlo Fisichella, Jacques Villeneuve, Jan Magnussen, Damon Hill, Johnny Herbert and Eddie Irvine.",Jan Magnussen,1.16,Interlagos ,72,30,26
+1997 Canadian Grand Prix,56,Crash of Olivier Panis.[e],,1.18,Circuit Gilles Villeneuve,69,Race halted ,Race halted 
+1998 Canadian Grand Prix,1,"Crash involving Jean Alesi, Johnny Herbert, Jarno Trulli and Alexander Wurz.",,1.18,Circuit Gilles Villeneuve,69,68,58
+1998 French Grand Prix,1,Jos Verstappen stalled his car at the start.[f],,1.15,Magny-Cours,72,5,4
+1998 Belgian Grand Prix,1,"Massive crash involving David Coulthard, Jos Verstappen, Eddie Irvine, Alexander Wurz, Rubens Barrichello, Johnny Herbert, Olivier Panis, Jarno Trulli, Mika Salo, Pedro Diniz, Toranosuke Takagi, Ricardo Rosset and Shinji Nakano.","Rubens Barrichello, Riccardo Rosset, Mika Salo and Olivier Panis.",1.49,Spa-Francochamps,44,51,34
+1999 British Grand Prix,1,Jacques Villeneuve and Alessandro Zanardi stalled their cars at the start. Michael Schumacher crashed after the red flag was shown.,"Michael Schumacher (crash, injured)",1.25,Silverstone,60,34,27
+2000 Monaco Grand Prix,1,Initially shown due to a technical fault in the FIA computer. Pedro de la Rosa and Jenson Button collided after the red flag was shown.,Pedro de la Rosa,1.2,Circuit de Monaco ,78,5,4
+2001 German Grand Prix,2,Crash involving Luciano Burti and Michael Schumacher.[e],,1.38,Hockenheimring,45,24,17
+2001 Belgian Grand Prix,5,"Crash involving Luciano Burti and Eddie Irvine, resulting in a damaged tyre wall.[e]","Luciano Burti (crash, injured), Eddie Irvine (crash), Kimi R√§ikk√∂nen (transmission) and Fernando Alonso (gearbox)",1.52,Spa-Francochamps,44,40,26
+2003 Brazilian Grand Prix,56,Crashes of Mark Webber and Fernando Alonso.[e],,1.14,Interlagos ,71,Race halted ,Race halted 
+2007 European Grand Prix,5,"Torrential rain and crashes involving Jenson Button, Nico Rosberg, Adrian Sutil, Lewis Hamilton, Scott Speed and Vitantonio Liuzzi.[e]","Jenson Button, Nico Rosberg, Adrian Sutil, Scott Speed and Vitantonio Liuzzi.",1.32,Nürburgring,60,20,15
+2009 Malaysian Grand Prix,33,"Torrential rain and crashes of S√©bastien Buemi, Sebastian Vettel and Giancarlo Fisichella. Half points were awarded.[b][e]",,1.35,Sepang ,56,Race halted ,Race halted 
+2010 Korean Grand Prix,3,Rain.[e],,1.36,Korea International Circuit,55,30,22
+2011 Monaco Grand Prix,72,"Crash involving Adrian Sutil, Lewis Hamilton, Jaime Alguersuari and Vitaly Petrov.",Jaime Alguersuari and Vitaly Petrov,1.14,Circuit de Monaco ,78,30,26
+2011 Canadian Grand Prix,25,Rain.[e],,1.13,Circuit Gilles Villeneuve,70,120,106
+2012 Malaysian Grand Prix,9,Rain.[e],,1.36,Sepang ,56,60,44
+2013 Monaco Grand Prix,46,"Crash involving Pastor Maldonado and Max Chilton, resulting in a damaged barrier blocking the track.",Pastor Maldonado,1.14,Circuit de Monaco ,78,49,43
+2014 British Grand Prix,1,"Crash involving Kimi R√§ikk√∂nen, Felipe Massa and Kamui Kobayashi, resulting in a damaged guardrail.[e]",Kimi R√§ikk√∂nen and Felipe Massa,1.36,Silverstone,52,65,48
+2014 Japanese Grand Prix,2,Torrential rain as a consequence of Typhoon Phanfone.[e],,1.33,Susuka ,53,20,15
+2014 Japanese Grand Prix,46,Fatal crash of Jules Bianchi.[e],,1.33,Susuka ,53,Race halted ,Race halted 
+2016 Australian Grand Prix,18,Crash involving Fernando Alonso and Esteban Guti√©rrez.[e],"Fernando Alonso (crash, injured), Esteban Guti√©rrez (crash) and Rio Haryanto (mechanical problem during red flag period)",1.24,Melbourne Grand Prix Circuit,58,23,19
+2016 Belgian Grand Prix,9,"Crash of Kevin Magnussen, resulting in a damaged barrier.[e]",Kevin Magnussen,1.47,Spa-Francochamps,44,15,10
+2016 Brazilian Grand Prix,21,Rain and crash of Kimi R√§ikk√∂nen.[e],"Jolyon Palmer, Kimi R√§ikk√∂nen",1.11,Interlagos ,71,25,23
+2016 Brazilian Grand Prix,28,Rain.[e],,1.11,Interlagos ,71,20,18
+2017 Azerbaijan Grand Prix,22,Debris on the track following multiple incidents.[e],,1.41,Baku City Circuit ,51,20,14
+2020 Italian Grand Prix,27,"Crash of Charles Leclerc, resulting in a damaged barrier.[e]",Charles Leclerc,1.19,Monza ,53,42,35
+2020 Tuscan Grand Prix,9,"Crash involving Carlos Sainz Jr., Nicholas Latifi, Kevin Magnussen and Antonio Giovinazzi.[e]","Carlos Sainz Jr., Nicholas Latifi, Kevin Magnussen, Antonio Giovinazzi (all crash) and Esteban Ocon (brakes)",1.15,Autodromo Internazionale del Mugello,59,50,43
+2020 Tuscan Grand Prix,46,"Crash of Lance Stroll, resulting in a damaged barrier.[e]",Lance Stroll,1.15,Autodromo Internazionale del Mugello,59,80,70
+2020 Bahrain Grand Prix,1,"Crash of Romain Grosjean, resulting in a damaged barrier.","Romain Grosjean (crash, injured)",1.27,Bahrain International Circuit,57,30,24
+2021 Emilia Romagna Grand Prix,33,"Crash involving Valtteri Bottas and George Russell, resulting in debris on the track.[e]","Valtteri Bottas, George Russell",1.14,Autodromo Enzo e Dino Ferrari,63,34,30
+2021 Azerbaijan Grand Prix,48,"Crash of Max Verstappen, resulting in debris on the track.[e]",Max Verstappen,1.41,Baku City Circuit ,51,20,14
+2021 British Grand Prix,2,"Crash involving Lewis Hamilton and Max Verstappen, resulting in a damaged barrier.[e]",Max Verstappen,1.26,Silverstone,52,39,31
+2021 Hungarian Grand Prix,2,"Crashes involving Valtteri Bottas, Lando Norris, Max Verstappen, Sergio P√©rez, Lance Stroll, Daniel Ricciardo, and Charles Leclerc, resulting in debris on the track.[e]","Valtteri Bottas, Charles Leclerc, Lance Stroll, Sergio P√©rez, Lando Norris (all crash)",1.15,Hungaroring,70,39,34
+2021 Belgian Grand Prix,3,Rain.[e] Half points were awarded.[b],,2,Spa-Francochamps,44,Race halted ,Race halted 
+2021 Saudi Arabian Grand Prix,13,"Crash of Mick Schumacher, resulting in a damaged barrier.[e]",Mick Schumacher (crash),1.28, Jeddah Corniche Circuit,50,20,16
+2021 Saudi Arabian Grand Prix,15,"Crashes involving Charles Leclerc, Nikita Mazepin, Sergio P√©rez and George Russell.","Nikita Mazepin, Sergio P√©rez and George Russell (all crash)",1.28, Jeddah Corniche Circuit,50,20,16
+2022 Monaco Grand Prix,30,"Crash of Mick Schumacher, resulting in a damaged barrier.",Mick Schumacher (crash),1.11,Circuit de Monaco ,78,45,41
+2022 British Grand Prix,1,"Multi-car collision involving Zhou Guanyu, George Russell and Pierre Gasly.","Zhou Guanyu, George Russell, Alexander Albon",1.41,Silverstone,52,52,37
